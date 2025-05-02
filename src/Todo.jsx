@@ -49,7 +49,7 @@ const Todo = () => {
               style={{
                 width: "400px",
                 height: "30px",
-                border: "none",
+
                 outline: "none",
                 border: "1px solid black",
                 borderRadius: "10px",
