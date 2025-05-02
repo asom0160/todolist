@@ -9,7 +9,7 @@ function App() {
         display: "flex",
         flexDirection: "column",
         alignItems: "center",
-        backgroundImage: "url(todolist1.jpg)",
+        backgroundImage: "url('/todolist1.jpg')",
         backgroundSize: "cover",
         textAlign: "center",
         gap: "10px",
